@@ -1,1 +1,2 @@
-# 100DaysPython
+# 100DaysPython projects
+# created while studying
